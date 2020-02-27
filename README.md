@@ -1,4 +1,4 @@
-# Apprentice_Chef.Machine_learning
+# Apprentice_Chef.Regression_model
 Deliverables: Predicting revenue for first year users through simple machine learning processes and present 2 insights
 and 1 actionable recommendation. 
 
